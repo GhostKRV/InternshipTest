@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<name>Han Solo</name>
+		<level>45</level>
+	</student>
+	<student>
+		<name>Master Yoda</name>
+		<level>99</level>
+	</student>
+	<student>
+		<name>Luke Skywalker</name>
+		<level>79</level>
+	</student>
+	<student>
+		<name>Darth Maul</name>
+		<level>83</level>
+	</student>
+	<student>
+		<name>Darth Vader</name>
+		<level>97</level>
+	</student>
+	<student>
+		<name>Boba Fett</name>
+		<level>15</level>
+	</student>
+	<student>
+		<name>Leia Organa</name>
+		<level>61</level>
+	</student>
+	<student>
+		<name>Darth Sidious</name>
+		<level>72</level>
+	</student>
+	<student>
+		<name>Kylo Ren</name>
+		<level>83</level>
+	</student>
+</students>

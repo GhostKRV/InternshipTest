@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<name>Kovalsky Boris</name>
+		<level>11</level>
+	</student>
+	<student>
+		<name>Kopylenko Semen</name>
+		<level>10</level>
+	</student>
+	<student>
+		<name>Khymenko Lev</name>
+		<level>12</level>
+	</student>
+	<student>
+		<name>Ignatenko Alexandr</name>
+		<level>12</level>
+	</student>
+</students>
